@@ -16,3 +16,7 @@ wsl --install
 wsl --set-version Ubuntu 2
 ```
 
+
+
+### Change font size terminal in VsCode
+![image](https://user-images.githubusercontent.com/55373948/235843152-796b2657-96a0-4d12-99fb-81c39742a51f.png)
