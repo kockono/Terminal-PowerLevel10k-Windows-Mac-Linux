@@ -8,8 +8,9 @@ Linux
 ## Windows
 ![image](https://user-images.githubusercontent.com/55373948/235842288-68bf5126-f322-4363-94a6-da47d9fb6058.png)
 
-### 1. Descargar Font 
+### 1. Descargar Fonts
 https://www.nerdfonts.com/font-downloads
+
 ### 2. Instalar Wsl 
 Abrir Terminal `PowerShell`
 ```sh
