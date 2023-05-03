@@ -1,4 +1,4 @@
-# Terminal power level10k en Windows y VsCode
+# Terminal power level10k en Windows y VsCode (BUILD)
 Mac
 Windows
 Linux
