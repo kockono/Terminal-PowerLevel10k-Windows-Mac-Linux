@@ -35,6 +35,6 @@ git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$
 brew install romkatv/powerlevel10k/powerlevel10k
 echo "source $(brew --prefix)/opt/powerlevel10k/powerlevel10k.zsh-theme" >>~/.zshrc
 ```
-### Change font size terminal in VsCode
+### Change font-size and font terminal in VsCode
 ![image](https://user-images.githubusercontent.com/55373948/235843152-796b2657-96a0-4d12-99fb-81c39742a51f.png)
 
