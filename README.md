@@ -15,8 +15,21 @@ wsl --install
 ```sh
 wsl --set-version Ubuntu 2
 ```
+### 5. Instalar Powerlevel10k dentro de la terminal de ubuntu
+```sh
+git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ~/powerlevel10k
+echo 'source ~/powerlevel10k/powerlevel10k.zsh-theme' >>~/.zshrc
+```
+### Instalar Oh My Zh
+```sh
+git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/powerlevel10k
+```
 
-
-
+### Instalar PowerLevel10k en Mac
+```sh
+brew install romkatv/powerlevel10k/powerlevel10k
+echo "source $(brew --prefix)/opt/powerlevel10k/powerlevel10k.zsh-theme" >>~/.zshrc
+```
 ### Change font size terminal in VsCode
 ![image](https://user-images.githubusercontent.com/55373948/235843152-796b2657-96a0-4d12-99fb-81c39742a51f.png)
+
