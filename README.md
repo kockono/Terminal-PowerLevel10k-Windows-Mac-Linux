@@ -1,7 +1,7 @@
 # Terminal power level10k en Windows y VsCode (BUILD)
-Mac
-Windows
-Linux
+1. Mac
+2. Windows
+3. Linux
 
 ## VsCode
 ![image](https://user-images.githubusercontent.com/55373948/235842143-2ff6dcfc-bf5e-4fa7-8ddf-b50302bd5df2.png)
