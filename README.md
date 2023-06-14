@@ -49,3 +49,13 @@ cd C:\cmder
 ```
 ![image](https://github.com/kockono/Terminal-PowerLevel10k-Windows-Mac-Linux/assets/55373948/4c39f5bb-6fc5-424a-af20-dd07aa22b23a)
 
+### Agregar Cmder en vscode Settings.json
+```json
+"terminal.integrated.profiles.windows": {
+  "cmder": {
+    "path": "C:\\WINDOWS\\System32\\cmd.exe",
+    "args": ["/K", "C:\\cmder\\vendor\\bin\\vscode_init.cmd"]
+  }
+},
+"terminal.integrated.defaultProfile.windows": "cmder"
+```
