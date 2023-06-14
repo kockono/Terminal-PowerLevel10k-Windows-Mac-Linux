@@ -1,7 +1,8 @@
-# Terminal power level10k en Windows y VsCode (BUILD)
+# Terminal ¿ power-level10k  Windows, Mac and VsCode (BUILD)
 1. Mac
 2. Windows
 3. Linux
+4. Cmder Windows
 
 ## VsCode
 ![image](https://user-images.githubusercontent.com/55373948/235842143-2ff6dcfc-bf5e-4fa7-8ddf-b50302bd5df2.png)
@@ -38,3 +39,7 @@ echo "source $(brew --prefix)/opt/powerlevel10k/powerlevel10k.zsh-theme" >>~/.zs
 ### Change font-size and font terminal in VsCode
 ![image](https://user-images.githubusercontent.com/55373948/235843152-796b2657-96a0-4d12-99fb-81c39742a51f.png)
 
+### Permite tener cmd como 
+```
+.\cmder.exe /REGISTER ALL
+```
