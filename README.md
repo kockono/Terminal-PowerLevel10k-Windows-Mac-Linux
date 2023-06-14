@@ -39,7 +39,13 @@ echo "source $(brew --prefix)/opt/powerlevel10k/powerlevel10k.zsh-theme" >>~/.zs
 ### Change font-size and font terminal in VsCode
 ![image](https://user-images.githubusercontent.com/55373948/235843152-796b2657-96a0-4d12-99fb-81c39742a51f.png)
 
-### Permite tener cmd como 
+### Permite tener cmd globalmente 
+```sh
+cd C:\cmder
 ```
+
+```sh
 .\cmder.exe /REGISTER ALL
 ```
+![image](https://github.com/kockono/Terminal-PowerLevel10k-Windows-Mac-Linux/assets/55373948/4c39f5bb-6fc5-424a-af20-dd07aa22b23a)
+
