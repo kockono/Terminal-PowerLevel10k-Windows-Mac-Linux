@@ -1,4 +1,4 @@
-# Terminal ¿ power-level10k  Windows, Mac and VsCode (BUILD)
+# Terminal power-level10k  Windows, Mac and VsCode (BUILD)
 1. Mac
 2. Windows
 3. Linux
